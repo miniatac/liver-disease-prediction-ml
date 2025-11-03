@@ -98,4 +98,10 @@ Further improvements could include:
 
 ---
 
+## License
+This project is released under the **MIT License**.  
+You are free to use, modify, and distribute the code, provided that proper credit is given to the authors.
+
+---
+
 *Developed as part of a Machine Learning course project.*
